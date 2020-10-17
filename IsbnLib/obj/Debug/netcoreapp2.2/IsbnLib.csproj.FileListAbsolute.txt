@@ -1,0 +1,16 @@
+C:\Users\poppe\OneDrive\Skolsaker\GMI23N\TENTA\csharp\csharp\IsbnLib\bin\Debug\netcoreapp2.2\IsbnLib.deps.json
+C:\Users\poppe\OneDrive\Skolsaker\GMI23N\TENTA\csharp\csharp\IsbnLib\bin\Debug\netcoreapp2.2\IsbnLib.runtimeconfig.json
+C:\Users\poppe\OneDrive\Skolsaker\GMI23N\TENTA\csharp\csharp\IsbnLib\bin\Debug\netcoreapp2.2\IsbnLib.runtimeconfig.dev.json
+C:\Users\poppe\OneDrive\Skolsaker\GMI23N\TENTA\csharp\csharp\IsbnLib\bin\Debug\netcoreapp2.2\IsbnLib.dll
+C:\Users\poppe\OneDrive\Skolsaker\GMI23N\TENTA\csharp\csharp\IsbnLib\bin\Debug\netcoreapp2.2\IsbnLib.pdb
+C:\Users\poppe\OneDrive\Skolsaker\GMI23N\TENTA\csharp\csharp\IsbnLib\obj\Debug\netcoreapp2.2\IsbnLib.csprojAssemblyReference.cache
+C:\Users\poppe\OneDrive\Skolsaker\GMI23N\TENTA\csharp\csharp\IsbnLib\obj\Debug\netcoreapp2.2\IsbnLib.csproj.CoreCompileInputs.cache
+C:\Users\poppe\OneDrive\Skolsaker\GMI23N\TENTA\csharp\csharp\IsbnLib\obj\Debug\netcoreapp2.2\IsbnLib.AssemblyInfoInputs.cache
+C:\Users\poppe\OneDrive\Skolsaker\GMI23N\TENTA\csharp\csharp\IsbnLib\obj\Debug\netcoreapp2.2\IsbnLib.AssemblyInfo.cs
+C:\Users\poppe\OneDrive\Skolsaker\GMI23N\TENTA\csharp\csharp\IsbnLib\obj\Debug\netcoreapp2.2\IsbnLib.dll
+C:\Users\poppe\OneDrive\Skolsaker\GMI23N\TENTA\csharp\csharp\IsbnLib\obj\Debug\netcoreapp2.2\IsbnLib.pdb
+C:\Users\Admin\OneDrive\Skolsaker\GMI23N\TENTA\csharp\csharp\IsbnLib\obj\Debug\netcoreapp2.2\IsbnLib.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Skolsaker\GMI23N\TENTA\csharp\csharp\IsbnLib\obj\Debug\netcoreapp2.2\IsbnLib.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Skolsaker\GMI23N\TENTA\csharp\csharp\IsbnLib\obj\Debug\netcoreapp2.2\IsbnLib.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Skolsaker\GMI23N\TENTA\csharp\csharp\IsbnLib\obj\Debug\netcoreapp2.2\IsbnLib.dll
+C:\Users\Admin\OneDrive\Skolsaker\GMI23N\TENTA\csharp\csharp\IsbnLib\obj\Debug\netcoreapp2.2\IsbnLib.pdb
